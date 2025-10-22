@@ -3,4 +3,5 @@
      border: 0cqmin;
      border-style: groove;
      bottom: jd;
-}
+     view-transition-class: inherit;
+    }
